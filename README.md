@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 - Recent grad passionate about software development
 - Currently working on: [F1 Stats Tracker (Flutter and Node.js)](https://github.com/sid-vyas/f1-clone)
-- Learning: Cloud (AWS/GCP), System Design
+- Learning: Cloud (AWS/GCP), System Design, Machine Learning
 - Interested in full-stack development and mobile apps
 
 ## 🛠 Tech Stack
