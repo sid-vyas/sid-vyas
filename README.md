@@ -7,10 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/siddharth-vyas-/)
 
 ## 👨‍💻 About Me
-- 🎓 Recent grad passionate about software development
-- 🔭 Currently working on: [F1 Stats Tracker (Flutter and Node.js)](https://github.com/sid-vyas/f1-clone)
-- 🌱 Learning: Cloud (AWS/GCP), System Design
-- 💡 Interested in full-stack development and mobile apps
+- Recent grad passionate about software development
+- Currently working on: [F1 Stats Tracker (Flutter and Node.js)](https://github.com/sid-vyas/f1-clone)
+- Learning: Cloud (AWS/GCP), System Design
+- Interested in full-stack development and mobile apps
 
 ## 🛠 Tech Stack
 - **Languages:** Java, C++, Python, Dart
